@@ -87,7 +87,9 @@ File_Hash_Generator_Verifier/
 👤 Author
 
 Muthusamy T.
-Cybersecurity Student @ Vels University, Chennai
+
+B.sc computer science (Cybersecurity) Student @ Vels University, Chennai
+
 GitHub: muthu-23
 
 
