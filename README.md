@@ -74,8 +74,11 @@ Enter the original hash to verify: 1234567890abcdef1234567890abcdef
 📁 Folder Structure
 
 File_Hash_Generator_Verifier/
+
 ├── example.txt            # sample test file
+
 ├── hash_verifier.py       # Main script
+
 └── README.md              # Project documentation
 
 
@@ -83,7 +86,8 @@ File_Hash_Generator_Verifier/
 
 👤 Author
 
-Muthusamy T. Cybersecurity Student @ Vels University, Chennai
+Muthusamy T.
+Cybersecurity Student @ Vels University, Chennai
 GitHub: muthu-23
 
 
